@@ -8,10 +8,9 @@ A simple counter app built using **React**, deployed live on Netlify.
 
 - ➕ Increment the counter
 - ➖ Decrement the counter (doesn’t go below 0)
-- 🔄 Reset the counter
 - Clean and minimal design
 
-## 📸 Screenshot
+ 
 
  
 
